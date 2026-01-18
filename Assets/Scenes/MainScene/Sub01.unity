@@ -163,7 +163,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 90d2dfa373c015148a2fab71e1b55849, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PanelPrefab: {fileID: 560616331942172599, guid: 5f256168b28a25e47b50fb995da368b7, type: 3}
+  PanelPrefab: {fileID: 7780953833088672352, guid: 63c8c46e6232f314bb7347663b998e0f, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

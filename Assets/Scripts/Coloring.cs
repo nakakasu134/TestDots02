@@ -1,7 +1,6 @@
 using Unity.Entities;
 using Unity.Mathematics;
 
-
 public struct ColoringData : IComponentData
 {
     public float distanceMax; // mouseDistanceMaxをここに格納
